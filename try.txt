@@ -2,5 +2,5 @@ HAI!
 Lagi nyobain github nih.
 edit 1
 coba branch
-tambah
-yo
+1 tambah
+2 yo
